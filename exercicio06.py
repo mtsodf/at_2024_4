@@ -17,9 +17,10 @@ def contar_a_palavra_alice():
 def main():
     quantidade = contar_a_palavra_alice()
     if quantidade:
-        print(quantidade)
-    else:
         print(f"A palavra 'Alice' aparece {quantidade} vezes no texto.")
+    else:
+        print("Modifique o código para contar as palavras")
+        
 
 
 if __name__ == "__main__":
