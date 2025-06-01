@@ -6,7 +6,7 @@ em que a citação se encontra.
 
 Crie a função identificar_livro_por_citacao e teste-a com as seguintes citações:
 
-1) "To be, or not to be, that is the question" -> deve retornar "HAMLET"
+1) "To be, or not to be, that is the question" -> deve retornar "THE TRAGEDY OF HAMLET, PRINCE OF DENMARK"
 2) "What’s in a name? That which we call a rose\nBy any other name would smell as sweet;" -> deve retornar "THE TRAGEDY OF ROMEO AND JULIET"
 """
 
